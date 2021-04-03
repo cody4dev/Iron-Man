@@ -1,0 +1,23 @@
+{
+    "name": "iron-man-dark-theme",
+    "displayName": "iron man dark theme",
+    "description": "Iron Man Dark Theme",
+    "version": "0.0.1",
+    "publisher": "Cody04",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "keywords": ["theme","iron man","iron man theme","avengers theme", "codechips","codechips theme","tony stark theme","red theme","jarvis theme " ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Iron Man Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Iron Man Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
