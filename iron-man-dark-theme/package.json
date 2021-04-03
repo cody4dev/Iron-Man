@@ -4,6 +4,7 @@
     "description": "Iron Man Dark Theme",
     "version": "0.0.1",
     "publisher": "Cody04",
+    "icon": "images/logo.jpg",
     "engines": {
         "vscode": "^1.55.0"
     },
